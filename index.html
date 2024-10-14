@@ -1,0 +1,57 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Meta targs SEO -->
+        
+        <meta name="description" content="Este proyecto muestra una interfaz dropdown, menú desplegable personalizado." />
+        <meta name="robots" content="index, follow">
+        <meta name="keywords" content="Roadmap, Miguel Ramos Alarcon, Frontend, MRA, developer"/>
+        <meta name="author" content="Miguel Alonso Ramos Alarcon" />
+        <meta name="copyright" content="Miguel Alonso Ramos Alarcon" />
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+        
+        <!-- Fonts Google -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap" rel="stylesheet">
+        <!-- CSS Styles -->
+        <link rel="stylesheet" href="styles.css">
+        <!-- CSS MATERIAL ICON- GOOGLE -->
+        <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+        <title>Dropdown</title>
+    </head>
+    <body>
+        <div class="dropdown">
+            <button class="dropdown-toggle" id="dropdown-button" aria-haspopup="true" aria-expanded="false">
+              Select an Item
+              <span class="material-symbols-outlined dropdown-icon">
+                keyboard_arrow_down
+                </span>
+            </button>
+            <ul class="dropdown-menu" id="dropdown-menu" aria-labelledby="dropdown-button" role="menu">
+              <li role="menuitem" tabindex="0">First Item
+                <span class="material-symbols-outlined check-icon">check_circle</span>
+              </li>
+              <li role="menuitem" tabindex="0">Second Item
+                <span class="material-symbols-outlined check-icon">check_circle</span>
+              </li>
+              <li role="menuitem" tabindex="0">Third Item
+                <span class="material-symbols-outlined check-icon">check_circle</span>
+              </li>
+              <li role="menuitem" tabindex="0">Fourth Item
+                <span class="material-symbols-outlined check-icon">check_circle</span>
+              </li>
+              <li role="menuitem" tabindex="0">Fifth Item
+                <span class="material-symbols-outlined check-icon">check_circle</span>
+              </li>
+            </ul>
+          </div>
+        
+        <script src="script.js"></script>
+    </body>
+    </html>
+
