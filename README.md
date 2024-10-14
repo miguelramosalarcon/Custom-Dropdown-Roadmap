@@ -39,10 +39,10 @@ Diseño adaptado para cualquier tipo de pantalla del dispositivo:
 
 ### El proyecto se encuentra alojado en mi repositorio de GitHub:
 
-- [Pagina web](https://roadmap.sh/projects/custom-dropdown) - Link del reto Roadmap
+- [Link del reto](https://roadmap.sh/projects/custom-dropdown)
 - [Codigo fuente]()
-- [Link]([https://roadmap.sh/projects](https://miguelramosalarcon.github.io/Custom-Dropdown-Roadmap) - Mira el proyecto online.
-- [Material Icons](https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined) - Link para usar Material Icons
+- [Solución Online](https://miguelramosalarcon.github.io/Custom-Dropdown-Roadmap)
+- [Material Icons](https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined)
 
 > [!IMPORTANT]
 > **“En medio de la dificultad reside la oportunidad."** No dejemos de practicar, esforcémonos por lo que nos apasiona.
